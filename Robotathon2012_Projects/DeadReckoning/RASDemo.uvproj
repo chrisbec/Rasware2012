@@ -392,14 +392,14 @@
               <FilePath>.\Startup.s</FilePath>
             </File>
             <File>
-              <FileName>Main.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Main.c</FilePath>
-            </File>
-            <File>
               <FileName>RASDemo.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\RASDemo.h</FilePath>
+            </File>
+            <File>
+              <FileName>DRMain.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\DRMain.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -442,11 +442,6 @@
               <FilePath>.\LineSensorDemo.c</FilePath>
             </File>
             <File>
-              <FileName>MotorDemo.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\MotorDemo.c</FilePath>
-            </File>
-            <File>
               <FileName>ServoDemo.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\ServoDemo.c</FilePath>
@@ -455,6 +450,11 @@
               <FileName>UARTDemo.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\UARTDemo.c</FilePath>
+            </File>
+            <File>
+              <FileName>MotorDemo.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\MotorDemo.c</FilePath>
             </File>
           </Files>
         </Group>

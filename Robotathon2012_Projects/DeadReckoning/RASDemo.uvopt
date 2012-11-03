@@ -195,20 +195,6 @@
     <File>
       <GroupNumber>1</GroupNumber>
       <FileNumber>2</FileNumber>
-      <FileType>1</FileType>
-      <tvExp>0</tvExp>
-      <Focus>0</Focus>
-      <ColumnNumber>9</ColumnNumber>
-      <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>10</TopLine>
-      <CurrentLine>29</CurrentLine>
-      <bDave2>0</bDave2>
-      <PathWithFileName>.\Main.c</PathWithFileName>
-      <FilenameWithoutPath>Main.c</FilenameWithoutPath>
-    </File>
-    <File>
-      <GroupNumber>1</GroupNumber>
-      <FileNumber>3</FileNumber>
       <FileType>5</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
@@ -219,6 +205,20 @@
       <bDave2>0</bDave2>
       <PathWithFileName>.\RASDemo.h</PathWithFileName>
       <FilenameWithoutPath>RASDemo.h</FilenameWithoutPath>
+    </File>
+    <File>
+      <GroupNumber>1</GroupNumber>
+      <FileNumber>3</FileNumber>
+      <FileType>1</FileType>
+      <tvExp>1</tvExp>
+      <Focus>0</Focus>
+      <ColumnNumber>0</ColumnNumber>
+      <tvExpOptDlg>0</tvExpOptDlg>
+      <TopLine>16</TopLine>
+      <CurrentLine>43</CurrentLine>
+      <bDave2>0</bDave2>
+      <PathWithFileName>.\DRMain.c</PathWithFileName>
+      <FilenameWithoutPath>DRMain.c</FilenameWithoutPath>
     </File>
   </Group>
 
@@ -284,8 +284,8 @@
       <Focus>0</Focus>
       <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>0</TopLine>
-      <CurrentLine>0</CurrentLine>
+      <TopLine>1</TopLine>
+      <CurrentLine>7</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\EncoderDemo.c</PathWithFileName>
       <FilenameWithoutPath>EncoderDemo.c</FilenameWithoutPath>
@@ -329,8 +329,8 @@
       <TopLine>0</TopLine>
       <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\MotorDemo.c</PathWithFileName>
-      <FilenameWithoutPath>MotorDemo.c</FilenameWithoutPath>
+      <PathWithFileName>.\ServoDemo.c</PathWithFileName>
+      <FilenameWithoutPath>ServoDemo.c</FilenameWithoutPath>
     </File>
     <File>
       <GroupNumber>3</GroupNumber>
@@ -338,28 +338,69 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>5</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>0</TopLine>
-      <CurrentLine>0</CurrentLine>
+      <TopLine>1</TopLine>
+      <CurrentLine>10</CurrentLine>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\ServoDemo.c</PathWithFileName>
-      <FilenameWithoutPath>ServoDemo.c</FilenameWithoutPath>
+      <PathWithFileName>.\UARTDemo.c</PathWithFileName>
+      <FilenameWithoutPath>UARTDemo.c</FilenameWithoutPath>
     </File>
     <File>
       <GroupNumber>3</GroupNumber>
       <FileNumber>12</FileNumber>
       <FileType>1</FileType>
-      <tvExp>0</tvExp>
+      <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>77</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>0</TopLine>
-      <CurrentLine>0</CurrentLine>
+      <TopLine>52</TopLine>
+      <CurrentLine>64</CurrentLine>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\UARTDemo.c</PathWithFileName>
-      <FilenameWithoutPath>UARTDemo.c</FilenameWithoutPath>
+      <PathWithFileName>.\MotorDemo.c</PathWithFileName>
+      <FilenameWithoutPath>MotorDemo.c</FilenameWithoutPath>
     </File>
   </Group>
+
+  <MDIGroups>
+    <Orientation>1</Orientation>
+    <ActiveMDIGroup>0</ActiveMDIGroup>
+    <MDIGroup>
+      <Size>100</Size>
+      <ActiveTab>2</ActiveTab>
+      <Documents>
+        <Doc>
+          <Name>.\RASDemo.h</Name>
+          <ColumnNumber>6</ColumnNumber>
+          <TopLine>1</TopLine>
+          <CurrentLine>28</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>.\DRMain.c</Name>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>16</TopLine>
+          <CurrentLine>43</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>.\MotorDemo.c</Name>
+          <ColumnNumber>77</ColumnNumber>
+          <TopLine>52</TopLine>
+          <CurrentLine>64</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>.\EncoderDemo.c</Name>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>1</TopLine>
+          <CurrentLine>7</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>.\UARTDemo.c</Name>
+          <ColumnNumber>5</ColumnNumber>
+          <TopLine>1</TopLine>
+          <CurrentLine>10</CurrentLine>
+        </Doc>
+      </Documents>
+    </MDIGroup>
+  </MDIGroups>
 
 </ProjectOpt>
